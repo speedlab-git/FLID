@@ -33,11 +33,16 @@ This will install all the necessary packages for the project.
 
 To run the project, use the following command in your terminal:
 
+Example: 
 ```
-python3 main.py --optimizer= sgd --data_split=iid --num_rounds=400
+python3 main.py --optimizer= sgd \
+--data_split=iid --num_rounds=400 \
+--clients_per_round=10 --batch_size = 4\
+--num_epochs=5 --poison=20
 ```
 
-This will execute the `main.py` file, which contains the main code for the project.
+This will execute the `main.py` file, which contains the main code for the project. 
 
-Make sure you are in the correct directory where the `main.py` file is located before running the command.
-
+```
+Note: Here Poison parameter refers to the poison level for the simulation. The parameter has to be in percentage format e.g For 100 clients 20% poison refers to 20 cients of the 100 clients will be poisoned. 
+```
