@@ -45,7 +45,7 @@ This will execute the `main.py` file, which contains the main code for the proje
 
 ## Results generated for 30% poison
 
-![ACC](acc.png)
+![ACC](./acc.png)
 
 
 ![loss](https://github.com/speedlab-git/FLID/blob/main/loss.png)
