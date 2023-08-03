@@ -88,8 +88,6 @@ def main():
         train(batch_size= parsed["batch_size"]
      ,poison=poison_clients,data_split=parsed["data_split"],optimizer=parsed["optimizer"],comm_rounds = parsed["num_rounds"], local_epochs= parsed["num_epochs"], lr= parsed["learning_rate"], num_clients= parsed["clients_per_round"]  )
 
-    # args = parser.parse_args()
-# Print "Hello" + the user input argument
 
 
 
