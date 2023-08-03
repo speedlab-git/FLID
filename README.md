@@ -45,10 +45,10 @@ This will execute the `main.py` file, which contains the main code for the proje
 
 ## Results generated for 30% poison
 
-![ACC](aug-acc.png)
+![ACC](./acc.png)
 
 
-![loss](https://github.com/speedlab-git/FLID/blob/main/aug-loss.png)
+![loss](https://github.com/speedlab-git/FLID/blob/main/loss.png)
 
 ```
 Note: Here Poison parameter refers to the poison level for the simulation. The parameter has to be in **percentage**
