@@ -43,6 +43,13 @@ python3 main.py --optimizer= sgd \
 
 This will execute the `main.py` file, which contains the main code for the project. 
 
+## Results generated for 30% poison
+
+![acc](https://github.com/speedlab-git/FLID/blob/main/aug-acc.png)
+
+
+![loss](https://github.com/speedlab-git/FLID/blob/main/aug-loss.png)
+
 ```
 Note: Here Poison parameter refers to the poison level for the simulation. The parameter has to be in **percentage**
 format. e.g For 100 clients 20% poison refers to 20 clients of the 100 clients will be poisoned. 
