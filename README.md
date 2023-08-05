@@ -45,7 +45,6 @@ This will execute the `main.py` file, which contains the main code for the proje
 
 ## Results generated for 30% poison
 
-## Results generated for 30% poison
 <img src="acc.png" width="350"> <img src="loss.png" width="350">
 
 
