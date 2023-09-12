@@ -47,6 +47,8 @@ This will execute the `main.py` file, which contains the main code for the proje
 
 <img src="acc.png" width="350"> <img src="loss.png" width="350">
 
+## Clustering the bad updates
+<img src="acc.png" width="350"> <img src="scatter-up.png" width="350">
 
 
 ```
@@ -59,7 +61,7 @@ format. e.g For 100 clients 20% poison refers to 20 clients of the 100 clients w
 - Md Zarif Hossain,<br>
   Graduate Research Assistant, Southern Illinois University, Carbondale
   
-- Ahmed Imteaj,
+- Ahmed Imteaj,<br>
   Assistant Professor, Southern Illinois University, Carbondale
 
 This research paper was accepted in [The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023)](https://attend.ieee.org/dsc-2023/)
