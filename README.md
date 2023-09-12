@@ -48,7 +48,7 @@ This will execute the `main.py` file, which contains the main code for the proje
 <img src="acc.png" width="350"> <img src="loss.png" width="350">
 
 ## Clustering the bad updates
-<img src="acc.png" width="350"> <img src="scatter-up.png" width="350">
+<img src="scatter-up.png" width="300">
 
 
 ```
