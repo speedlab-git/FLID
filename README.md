@@ -57,9 +57,9 @@ format. e.g For 100 clients 20% poison refers to 20 clients of the 100 clients w
 ## Contribution
 @authors 
 - Md Zarif Hossain,<br>
-  Graduate Research Assistant, Souther Illinois University, Carbondale
+  Graduate Research Assistant, Southern Illinois University, Carbondale
   
 - Ahmed Imteaj,
-- 
+  Assistant Professor, Southern Illinois University, Carbondale
 
 This research paper was accepted in [The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023)](https://attend.ieee.org/dsc-2023/)
