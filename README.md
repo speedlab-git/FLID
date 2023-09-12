@@ -48,7 +48,15 @@ This will execute the `main.py` file, which contains the main code for the proje
 <img src="acc.png" width="350"> <img src="loss.png" width="350">
 
 
+
 ```
 Note: Here Poison parameter refers to the poison level for the simulation. The parameter has to be in **percentage**
 format. e.g For 100 clients 20% poison refers to 20 clients of the 100 clients will be poisoned. 
 ```
+
+##Contribution
+@authors 
+- Md Zarif Hossain
+- Ahmed Imteaj
+
+This research paper was accepted in [The 2023 6th IEEE Conference on Dependable and Secure Computing (IEEE DSC 2023)](https://attend.ieee.org/dsc-2023/)
